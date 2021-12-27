@@ -3,3 +3,17 @@
 ################################################################################
 
 /01_HelloThread/bin
+/01_HelloThread/build/.vs/HelloThread/v16
+/01_HelloThread/build/CMakeFiles
+/01_HelloThread/build/HelloThread.dir/Debug
+/01_HelloThread/build/x64/Debug/ZERO_CHECK
+/03_SharedDataThread/bin
+/03_SharedDataThread/build
+/04_Concurrency/bin
+/04_Concurrency/build
+/05_Memory/bin
+/05_Memory/build
+/06_DataStructWithMutex/.vscode
+/06_DataStructWithMutex/bin
+/06_DataStructWithMutex/build
+/logtest
